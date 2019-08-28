@@ -1,4 +1,4 @@
-# Pycon Korea 2019 Event - 쿠나의 핸드폰 비밀번호를 찾아라!
+# JSConf Korea 2019 - 쿠나의 핸드폰 비밀번호를 찾아라!
 
 ![kuna-icon](https://user-images.githubusercontent.com/40815423/63143786-e1be1100-c02a-11e9-8f0b-2c2ff08a6e37.png)
 
